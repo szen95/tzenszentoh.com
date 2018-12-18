@@ -15,11 +15,11 @@
 
 .main-text a {
     color: #5FA8FD;
-    text-decoration-line: none; 
+    text-decoration: none;
 }
 
 .main-text a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
     text-decoration-color: #5FA8FD;
 }
 
@@ -42,11 +42,11 @@
 .secondary-page-text a {
     color: #5FA8FD;
     font-size: 14px;
-    text-decoration-line: none;
+    text-decoration: none;
 }
 
 .secondary-page-text a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
     text-decoration-color: #5FA8FD;
 }
 
@@ -91,13 +91,13 @@
   }
   
   .nav > .nav-links > a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
     text-decoration-color: #000000;
   }
 
   .nav > .nav-links > .selected-label {
     color: #000000;
-    text-decoration-line: underline;
+    text-decoration: underline;
   }
 
   .nav > #nav-check {
@@ -118,7 +118,7 @@
       padding: 13px;
     }
     .nav > .nav-btn > label:hover {
-      text-decoration-line: underline;
+      text-decoration: underline;
       text-decoration-color: #000000;
     }
     .nav > .nav-btn > label > span {
