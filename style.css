@@ -5,12 +5,12 @@
   }
 
 .main-text h3 {
-    font-size: 24px;
+    font-size: 26px;
     font-weight: bold;
 }
 
 .main-text p {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .main-text a {
@@ -33,7 +33,7 @@
 
 .secondary-page-text h3 { 
     color: #5FA8FD;
-    font-size: 24px;
+    font-size: 26px;
 }
 
 .secondary-page-text h2 { 
@@ -42,12 +42,12 @@
 }
 
 .secondary-page-text p {
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .secondary-page-text a {
     color: #5FA8FD;
-    font-size: 14px;
+    font-size: 18px;
     text-decoration: none;
 }
 
